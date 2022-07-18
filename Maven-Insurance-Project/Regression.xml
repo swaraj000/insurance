@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite123">
+  <test thread-count="5" name="Test123">
+    <classes>
+      <class name="tests.RegisterClassNG"/>
+      <class name="tests.TestNGClass"/>
+    </classes>
+  </test> <!-- Test123 -->
+</suite> <!-- Suite123 -->
